@@ -1,1 +1,2 @@
-# GoPlugin Docs
+# GoPlugin Node Setup Docs
+
